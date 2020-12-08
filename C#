@@ -4,5 +4,6 @@ public class Goob{
 
  public static void main(){
   Console.WriteLine("PIPEC");
+  Console.WriteLine("JOPA");
  }
 }
